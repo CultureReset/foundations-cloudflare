@@ -1,3 +1,14 @@
+> **CultureReset fork of [cloudflare/foundations](https://github.com/cloudflare/foundations).** Cloudflare's Rust service foundations library.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** BSD-3-Clause, from upstream. For updates and issues, use [upstream](https://github.com/cloudflare/foundations).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Foundations
 
 <p align="center">
